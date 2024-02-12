@@ -1,4 +1,3 @@
-## Hi there 👋
+## Hello and welcome to Park! 👋
 
-Park Embedded is a Linux distribution that focuses on providing a unqiue, reliable and friendly UI for your embedded devices. Our desktop environment uses Javascript & Electron to achieve our goal. 
-"DashboardUI" is designed to run web applications on top of the environment for Kiosks, POS Systems or Registers.
+Park is a mobile based operating system that tends to bring web technologies (like the now defunct FirefoxOS).

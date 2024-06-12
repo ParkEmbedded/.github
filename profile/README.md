@@ -1,3 +1,4 @@
-## Hello and welcome to Park! 👋
+# Hello and welcome to Park! 👋
 
-Park is a mobile based operating system that tends to bring web technologies (like the now defunct FirefoxOS).
+### First off, what is Park Embedded?
+Park Embedded provids tools for Compact / Embedded Devices, by utilizing web-technologies; we encourage developers to modify our tools based on their intentions by creating software that is designed to be changed and edited.
